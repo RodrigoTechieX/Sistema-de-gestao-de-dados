@@ -1,6 +1,7 @@
 # Sistema-de-gestão-de-dados
-Sistema de gestão de dados de filmes
+<h1>DATA FLOW</h1>
+<h2>Sistema de gestão de dados de filmes</h2>
 
-Contexto: O sistema compôe telas de Login, Cadastro, esqueceu a senha, Lobby, gestão de filmes e Auditoria de registros
+<h3>Contexto: O sistema compôe telas de Login, Cadastro, esqueceu a senha, Lobby, gestão de filmes e Auditoria de registros</h3>
 
-Funcionalidades incluem: Adicionar(Título, Diretor, Ano, Duração, Categoria), alterar e excluir filme
+<h3>Funcionalidades incluem: Adicionar(Título, Diretor, Ano, Duração, Categoria), alterar e excluir filme</h3>
